@@ -36,7 +36,7 @@ jobs:
       run: |
         IMAGES_FOLDER="Apps"
         JSON_FILE="levi.icons.json"
-        DESTINATION_FOLDER="icons"
+        DESTINATION_FOLDER="icon"
         echo "Checking current directory:"
         pwd
         echo "Listing files in Apps:"
@@ -93,7 +93,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: levi.icon.json
-        path: /home/runner/work/icon
+        path: path: ${{ env.ARTIFACT_PATH }}
 
 
 
