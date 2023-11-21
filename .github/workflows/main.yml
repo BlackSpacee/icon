@@ -47,13 +47,13 @@ jobs:
         echo "{" > $JSON_FILE
         echo '  "name": "Levi图标订阅",' 
         echo '  "description": "收集一些自己常用的图标 by @czy13724",' 
-        echo '  "icons": [' >> $JSON_FILE
+        echo '  "icons": [' 
         
         # Populate the array with image information
         for FILE_PATH in $IMAGES_FOLDER/*; do
           if [ -f "$FILE_PATH" ]; then
             FILE_NAME=$(basename "$FILE_PATH")
-            RAW_URL="https://raw.githubusercontent.com/blackspacee/icon/main/$FILE_PATH"
+            RAW_URL="https://raw.githubusercontent.com/Blackspacee/icon/main/$FILE_PATH"
         # 如果不是第一个图标，则在前一个图标的末尾添加逗号
           if [ "$FIRST_ITEM" = false ]; then
         # 在前一个图标的末尾添加逗号
@@ -83,7 +83,7 @@ jobs:
         echo "Checking generated JSON file:"
         cat $JSON_FILE
 
-        # Move the JSON file to the LeviIcons directory
+        # Move the JSON file to the icon directory
         mv -f $JSON_FILE icon
       
         # Set an environment variable with the path to the JSON file
