@@ -2,7 +2,7 @@ import os
 import json
 
 def generate_json():
-    image_folder = 'BlankSpaceicons'
+    image_folder = 'Apps'
     json_data = {
         "name": "BlankSpace图标订阅",
         "description": "收集一些自己常用的图标仅自用",
