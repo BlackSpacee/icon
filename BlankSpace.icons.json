@@ -243,10 +243,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Kuaishou.png"
     },
     {
-      "name": "meituan.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/meituan.png"
-    },
-    {
       "name": "Cisco.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Cisco.png"
     },
@@ -289,6 +285,10 @@
     {
       "name": "Apple_Books.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Books.png"
+    },
+    {
+      "name": "Meituan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Meituan.png"
     },
     {
       "name": "netflix.png",
