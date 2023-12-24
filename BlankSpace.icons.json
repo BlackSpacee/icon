@@ -127,10 +127,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Discord.png"
     },
     {
-      "name": "tencentcloud.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/tencentcloud.png"
-    },
-    {
       "name": "Apple_Arcade.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Arcade.png"
     },
@@ -257,6 +253,10 @@
     {
       "name": "YouTubeMusic.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/YouTubeMusic.png"
+    },
+    {
+      "name": "TencentCloud.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/TencentCloud.png"
     },
     {
       "name": "Bodian_Music.png",
