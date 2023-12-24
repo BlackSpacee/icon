@@ -339,10 +339,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Home.png"
     },
     {
-      "name": "baimiao.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/baimiao.png"
-    },
-    {
       "name": "Musixmatch.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Musixmatch.png"
     },
@@ -433,6 +429,10 @@
     {
       "name": "DisneyPlus.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/DisneyPlus.png"
+    },
+    {
+      "name": "Baimiao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Baimiao.png"
     },
     {
       "name": "RiotGames.png",
