@@ -27,10 +27,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Saomiao.png"
     },
     {
-      "name": "warp.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/warp.png"
-    },
-    {
       "name": "AdGuard.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AdGuard.png"
     },
@@ -301,6 +297,10 @@
     {
       "name": "555.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/555.png"
+    },
+    {
+      "name": "WARP.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WARP.png"
     },
     {
       "name": "Zalo.png",
