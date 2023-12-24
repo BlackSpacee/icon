@@ -63,10 +63,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/dianshijia.png"
     },
     {
-      "name": "jijianhuilv.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/jijianhuilv.png"
-    },
-    {
       "name": "warpcomet.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/warpcomet.png"
     },
@@ -465,6 +461,10 @@
     {
       "name": "Douban.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Douban.png"
+    },
+    {
+      "name": "JiJianhuilv.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/JiJianhuilv.png"
     }
   ]
 }
