@@ -55,10 +55,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/dianshijia.png"
     },
     {
-      "name": "warpcomet.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/warpcomet.png"
-    },
-    {
       "name": "Apple_Wallet.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Wallet.png"
     },
@@ -117,6 +113,10 @@
     {
       "name": "weibo.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/weibo.png"
+    },
+    {
+      "name": "WARPcomet.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WARPcomet.png"
     },
     {
       "name": "Discord.png",
