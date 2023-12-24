@@ -151,10 +151,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Azure.png"
     },
     {
-      "name": "xbox.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/xbox.png"
-    },
-    {
       "name": "KakaoTalk.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/KakaoTalk.png"
     },
@@ -397,6 +393,10 @@
     {
       "name": "Baimiao.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Baimiao.png"
+    },
+    {
+      "name": "Xbox.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Xbox.png"
     },
     {
       "name": "RiotGames.png",
