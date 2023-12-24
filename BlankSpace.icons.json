@@ -151,10 +151,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AppleNews.png"
     },
     {
-      "name": "kuaishou.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/kuaishou.png"
-    },
-    {
       "name": "cainiao.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/cainiao.png"
     },
@@ -253,6 +249,10 @@
     {
       "name": "shadowrocket.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/shadowrocket.png"
+    },
+    {
+      "name": "Kuaishou.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Kuaishou.png"
     },
     {
       "name": "meituan.png",
