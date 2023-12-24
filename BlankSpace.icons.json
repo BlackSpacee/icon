@@ -55,10 +55,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/spotify.png"
     },
     {
-      "name": "Apple_mail.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_mail.png"
-    },
-    {
       "name": "vsco.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/vsco.png"
     },
@@ -213,6 +209,10 @@
     {
       "name": "SubStore.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/SubStore.png"
+    },
+    {
+      "name": "Apple_Mail.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Mail.png"
     },
     {
       "name": "wechat.png",
