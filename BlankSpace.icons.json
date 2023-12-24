@@ -159,10 +159,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/KakaoTalk.png"
     },
     {
-      "name": "xianyu.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/xianyu.png"
-    },
-    {
       "name": "Apple_AppleStore.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_AppleStore.png"
     },
@@ -361,6 +357,10 @@
     {
       "name": "CaiYun.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/CaiYun.png"
+    },
+    {
+      "name": "Xianyu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Xianyu.png"
     },
     {
       "name": "Zhihu.png",
