@@ -3,10 +3,6 @@
   "description": "收集一些自己常用的图标仅自用",
   "icons": [
     {
-      "name": "BiliBili_01.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BiliBili_01.png"
-    },
-    {
       "name": "Apple_FaceTime.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_FaceTime.png"
     },
@@ -269,10 +265,6 @@
     {
       "name": "Stash.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Stash.png"
-    },
-    {
-      "name": "BiliBiliTV.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BiliBiliTV.png"
     },
     {
       "name": "555.png",
