@@ -3,10 +3,6 @@
   "description": "收集一些自己常用的图标仅自用",
   "icons": [
     {
-      "name": "VVebo.png.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/VVebo.png.png"
-    },
-    {
       "name": "Yunshanfu.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Yunshanfu.png"
     },
@@ -37,6 +33,10 @@
     {
       "name": "WhatsApp.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WhatsApp.png"
+    },
+    {
+      "name": "VVebo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/VVebo.png"
     },
     {
       "name": "Saomiao.png",
