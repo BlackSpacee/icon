@@ -1,0 +1,718 @@
+{
+  "name": "BlankSpace扁平化App图标订阅",
+  "description": "收集一些常用的图标仅自用",
+  "icons": [
+    {
+      "name": "00000.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/00000.png"
+    },
+    {
+      "name": "1.1.1.1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/1.1.1.1.png"
+    },
+    {
+      "name": "123_Drive.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/123_Drive.png"
+    },
+    {
+      "name": "555.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/555.png"
+    },
+    {
+      "name": "AcFun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AcFun.png"
+    },
+    {
+      "name": "AdGuard.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AdGuard.png"
+    },
+    {
+      "name": "Aiqicha.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Aiqicha.png"
+    },
+    {
+      "name": "AliPay.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AliPay.png"
+    },
+    {
+      "name": "AliYunDrive.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AliYunDrive.png"
+    },
+    {
+      "name": "AliYunDrive_April.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AliYunDrive_April.png"
+    },
+    {
+      "name": "Alist.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Alist.png"
+    },
+    {
+      "name": "Alook.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Alook.png"
+    },
+    {
+      "name": "Aoruankoutu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Aoruankoutu.png"
+    },
+    {
+      "name": "App_Store.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/App_Store.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple.png"
+    },
+    {
+      "name": "AppleNews.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AppleNews.png"
+    },
+    {
+      "name": "Apple_AppleStore.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_AppleStore.png"
+    },
+    {
+      "name": "Apple_Arcade.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Arcade.png"
+    },
+    {
+      "name": "Apple_Books.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Books.png"
+    },
+    {
+      "name": "Apple_Classic.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Classic.png"
+    },
+    {
+      "name": "Apple_FaceTime.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_FaceTime.png"
+    },
+    {
+      "name": "Apple_GameCenter.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_GameCenter.png"
+    },
+    {
+      "name": "Apple_Home.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Home.png"
+    },
+    {
+      "name": "Apple_Mail.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Mail.png"
+    },
+    {
+      "name": "Apple_Maps.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Maps.png"
+    },
+    {
+      "name": "Apple_Messages.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Messages.png"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Music.png"
+    },
+    {
+      "name": "Apple_Podcasts.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Podcasts.png"
+    },
+    {
+      "name": "Apple_Safari.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Safari.png"
+    },
+    {
+      "name": "Apple_SpringLoaded.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_SpringLoaded.png"
+    },
+    {
+      "name": "Apple_Store.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Store.png"
+    },
+    {
+      "name": "Apple_Support.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Support.png"
+    },
+    {
+      "name": "Apple_TV.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_TV.png"
+    },
+    {
+      "name": "Apple_Wallet.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Wallet.png"
+    },
+    {
+      "name": "Apple_Weather.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Weather.png"
+    },
+    {
+      "name": "Apple_iCloud-Drive.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_iCloud-Drive.png"
+    },
+    {
+      "name": "Apple_iTunes-Store.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_iTunes-Store.png"
+    },
+    {
+      "name": "Azure.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Azure.png"
+    },
+    {
+      "name": "BOSS.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BOSS.png"
+    },
+    {
+      "name": "Baidu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Baidu.png"
+    },
+    {
+      "name": "BaiduCloud.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BaiduCloud.png"
+    },
+    {
+      "name": "Baimiao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Baimiao.png"
+    },
+    {
+      "name": "Bark.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Bark.png"
+    },
+    {
+      "name": "BiJian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BiJian.png"
+    },
+    {
+      "name": "BiliBili.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BiliBili.png"
+    },
+    {
+      "name": "BiliBili_Blue.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BiliBili_Blue.png"
+    },
+    {
+      "name": "BiliBili_White.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BiliBili_White.png"
+    },
+    {
+      "name": "Bitwarden.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Bitwarden.png"
+    },
+    {
+      "name": "Bodian_Music.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Bodian_Music.png"
+    },
+    {
+      "name": "BoxJS.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/BoxJS.png"
+    },
+    {
+      "name": "CCB.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/CCB.png"
+    },
+    {
+      "name": "CMCC.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/CMCC.png"
+    },
+    {
+      "name": "CTCC.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/CTCC.png"
+    },
+    {
+      "name": "CUCC.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/CUCC.png"
+    },
+    {
+      "name": "CaiYun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/CaiYun.png"
+    },
+    {
+      "name": "Cainiao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Cainiao.png"
+    },
+    {
+      "name": "CapCut.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/CapCut.png"
+    },
+    {
+      "name": "ChatGPT.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/ChatGPT.png"
+    },
+    {
+      "name": "Cloudflare.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Cloudflare.png"
+    },
+    {
+      "name": "DAMA.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/DAMA.png"
+    },
+    {
+      "name": "Dianshijia.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Dianshijia.png"
+    },
+    {
+      "name": "DingDing.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/DingDing.png"
+    },
+    {
+      "name": "Discord.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Discord.png"
+    },
+    {
+      "name": "DisneyPlus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/DisneyPlus.png"
+    },
+    {
+      "name": "Douban.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Douban.png"
+    },
+    {
+      "name": "Douyin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Douyin.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Emby.png"
+    },
+    {
+      "name": "Emby1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Emby1.png"
+    },
+    {
+      "name": "Facebook.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Facebook.png"
+    },
+    {
+      "name": "Feizhu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Feizhu.png"
+    },
+    {
+      "name": "FileBall.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/FileBall.png"
+    },
+    {
+      "name": "GaodeMap.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/GaodeMap.png"
+    },
+    {
+      "name": "Gcp.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Gcp.png"
+    },
+    {
+      "name": "Github.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Github.png"
+    },
+    {
+      "name": "Gmail.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Gmail.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Google.png"
+    },
+    {
+      "name": "Google_Chrome.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Google_Chrome.png"
+    },
+    {
+      "name": "Google_Earth.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Google_Earth.png"
+    },
+    {
+      "name": "Huolala.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Huolala.png"
+    },
+    {
+      "name": "Infuse.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Infuse.png"
+    },
+    {
+      "name": "Instagram.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Instagram.png"
+    },
+    {
+      "name": "Intel_Unison.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Intel_Unison.png"
+    },
+    {
+      "name": "JD.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/JD.png"
+    },
+    {
+      "name": "JSBox.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/JSBox.png"
+    },
+    {
+      "name": "Javdb.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Javdb.png"
+    },
+    {
+      "name": "JiJianhuilv.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/JiJianhuilv.png"
+    },
+    {
+      "name": "Jianhangshenghuo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Jianhangshenghuo.png"
+    },
+    {
+      "name": "KakaoTalk.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/KakaoTalk.png"
+    },
+    {
+      "name": "Keep.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Keep.png"
+    },
+    {
+      "name": "Ku_an.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Ku_an.png"
+    },
+    {
+      "name": "Kuaishou.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Kuaishou.png"
+    },
+    {
+      "name": "LANDrop.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/LANDrop.png"
+    },
+    {
+      "name": "Loon.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Loon.png"
+    },
+    {
+      "name": "Loon_02.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Loon_02.png"
+    },
+    {
+      "name": "Lovepdf.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Lovepdf.png"
+    },
+    {
+      "name": "Meituan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Meituan.png"
+    },
+    {
+      "name": "Message.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Message.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Microsoft.png"
+    },
+    {
+      "name": "Musixmatch.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Musixmatch.png"
+    },
+    {
+      "name": "NOMO_CAM.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/NOMO_CAM.png"
+    },
+    {
+      "name": "NOMO_RAW.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/NOMO_RAW.png"
+    },
+    {
+      "name": "NTPlayer.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/NTPlayer.png"
+    },
+    {
+      "name": "NetEaseCloud_Music.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/NetEaseCloud_Music.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Netflix.png"
+    },
+    {
+      "name": "Nicegram.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Nicegram.png"
+    },
+    {
+      "name": "Notion.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Notion.png"
+    },
+    {
+      "name": "Obsidian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Obsidian.png"
+    },
+    {
+      "name": "OpenAI.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/OpenAI.png"
+    },
+    {
+      "name": "OpenAI_01.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/OpenAI_01.png"
+    },
+    {
+      "name": "Picroll.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Picroll.png"
+    },
+    {
+      "name": "Picsew.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Picsew.png"
+    },
+    {
+      "name": "Pinduoduo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Pinduoduo.png"
+    },
+    {
+      "name": "PixelanceAI.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/PixelanceAI.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/QQ.png"
+    },
+    {
+      "name": "QQkongjian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/QQkongjian.png"
+    },
+    {
+      "name": "Quantumult_X.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Quantumult_X.png"
+    },
+    {
+      "name": "RenRenshipin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/RenRenshipin.png"
+    },
+    {
+      "name": "Retake.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Retake.png"
+    },
+    {
+      "name": "Retouch.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Retouch.png"
+    },
+    {
+      "name": "SF.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/SF.png"
+    },
+    {
+      "name": "Saomiao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Saomiao.png"
+    },
+    {
+      "name": "Script-Hub.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Script-Hub.png"
+    },
+    {
+      "name": "Shadowrocket.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Shadowrocket.png"
+    },
+    {
+      "name": "Shayujizhang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Shayujizhang.png"
+    },
+    {
+      "name": "Shazam.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Shazam.png"
+    },
+    {
+      "name": "Shortcuts.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Shortcuts.png"
+    },
+    {
+      "name": "ShuziRMB.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/ShuziRMB.png"
+    },
+    {
+      "name": "Snapchat.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Snapchat.png"
+    },
+    {
+      "name": "Snapseed.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Snapseed.png"
+    },
+    {
+      "name": "Soutushenqi.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Soutushenqi.png"
+    },
+    {
+      "name": "Speedtest.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Speedtest.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Spotify.png"
+    },
+    {
+      "name": "Spotify_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Spotify_1.png"
+    },
+    {
+      "name": "Spotify_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Spotify_2.png"
+    },
+    {
+      "name": "Stash.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Stash.png"
+    },
+    {
+      "name": "Stay.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Stay.png"
+    },
+    {
+      "name": "SubStore.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/SubStore.png"
+    },
+    {
+      "name": "Surge.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Surge.png"
+    },
+    {
+      "name": "Swiftgram.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Swiftgram.png"
+    },
+    {
+      "name": "Taobao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Taobao.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Telegram.png"
+    },
+    {
+      "name": "TencentCloud.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/TencentCloud.png"
+    },
+    {
+      "name": "TestFlight.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/TestFlight.png"
+    },
+    {
+      "name": "Tianyiyun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Tianyiyun.png"
+    },
+    {
+      "name": "Tieba.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Tieba.png"
+    },
+    {
+      "name": "Tiktok.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Tiktok.png"
+    },
+    {
+      "name": "Twitch.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Twitch.png"
+    },
+    {
+      "name": "Twitter.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Twitter.png"
+    },
+    {
+      "name": "VSCO.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/VSCO.png"
+    },
+    {
+      "name": "VVebo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/VVebo.png"
+    },
+    {
+      "name": "VidHub.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/VidHub.png"
+    },
+    {
+      "name": "WARP.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WARP.png"
+    },
+    {
+      "name": "WARPcomet.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WARPcomet.png"
+    },
+    {
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WeChat.png"
+    },
+    {
+      "name": "WeCome.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WeCome.png"
+    },
+    {
+      "name": "Weibo_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Weibo_1.png"
+    },
+    {
+      "name": "Weibo_intl.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Weibo_intl.png"
+    },
+    {
+      "name": "WeixinMiniPrograms.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WeixinMiniPrograms.png"
+    },
+    {
+      "name": "WhatsApp.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WhatsApp.png"
+    },
+    {
+      "name": "WireGuard.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/WireGuard.png"
+    },
+    {
+      "name": "X.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/X.png"
+    },
+    {
+      "name": "Xbox.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Xbox.png"
+    },
+    {
+      "name": "Xianyu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Xianyu.png"
+    },
+    {
+      "name": "Ximalaya.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Ximalaya.png"
+    },
+    {
+      "name": "Xiongmao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Xiongmao.png"
+    },
+    {
+      "name": "Xunlei.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Xunlei.png"
+    },
+    {
+      "name": "YouTubeMusic.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/YouTubeMusic.png"
+    },
+    {
+      "name": "Youtube.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Youtube.png"
+    },
+    {
+      "name": "Yunshanfu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Yunshanfu.png"
+    },
+    {
+      "name": "ZCOOL.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/ZCOOL.png"
+    },
+    {
+      "name": "Zalo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Zalo.png"
+    },
+    {
+      "name": "Zhihu.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Zhihu.png"
+    },
+    {
+      "name": "Zhuanzhuan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Zhuanzhuan.png"
+    },
+    {
+      "name": "Zuotang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Zuotang.png"
+    },
+    {
+      "name": "Zuotang_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Zuotang_1.png"
+    },
+    {
+      "name": "nPlayer.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/nPlayer.png"
+    },
+    {
+      "name": "ql_logo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/ql_logo.png"
+    },
+    {
+      "name": "zhangjun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/zhangjun.png"
+    }
+  ]
+}
