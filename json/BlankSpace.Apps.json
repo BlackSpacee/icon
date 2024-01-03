@@ -67,10 +67,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/AppleNews.png"
     },
     {
-      "name": "Apple_AppleStore.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_AppleStore.png"
-    },
-    {
       "name": "Apple_Arcade.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Apple_Arcade.png"
     },
@@ -237,6 +233,10 @@
     {
       "name": "Cloudflare.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Cloudflare.png"
+    },
+    {
+      "name": "Copilot.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Apps/Copilot.png"
     },
     {
       "name": "DAMA.png",
