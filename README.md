@@ -1,4 +1,4 @@
-![icon](https://socialify.git.ci/BlackSpacee/icon/image?description=1&descriptionEditable=From%20Orz-3%2C%20koolson%2C%20fmz200......%20For%20Own%20Use.&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FBlackSpacee%2FBlackSpacee%2Fmain%2Fsrc%2Fsvg%2FProfile.svg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Light)
+![icon](https://socialify.git.ci/BlackSpacee/icon/image?description=1&descriptionEditable=Form%20Orz-3%2C%20koolson%2C%20fmz200%2C%20lige47...%20For%20Own%20Use&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FBlackSpacee%2FBlackSpacee%2Fmain%2Fsrc%2Fsvg%2FProfile.svg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
 
   <!--<div align="center">
 
