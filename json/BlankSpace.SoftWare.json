@@ -7,10 +7,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/00000.png"
     },
     {
-      "name": "AdBlock.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/AdBlock.png"
-    },
-    {
       "name": "AdGuard.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/AdGuard.png"
     },
@@ -43,18 +39,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/AppleMusic.png"
     },
     {
-      "name": "AppleNews.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/AppleNews.png"
-    },
-    {
-      "name": "AppleNews_2.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/AppleNews_2.png"
-    },
-    {
-      "name": "Apple_2.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Apple_2.png"
-    },
-    {
       "name": "Apple_Arcade.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Apple_Arcade.png"
     },
@@ -85,10 +69,6 @@
     {
       "name": "Apple_Home.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Apple_Home.png"
-    },
-    {
-      "name": "Apple_Music.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Apple_Music.png"
     },
     {
       "name": "Apple_News.png",
@@ -139,10 +119,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/BiliBiliMini.png"
     },
     {
-      "name": "ChatGPT.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/ChatGPT.png"
-    },
-    {
       "name": "Cloudflare.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Cloudflare.png"
     },
@@ -175,8 +151,16 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/GitHub.png"
     },
     {
+      "name": "GitHub_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/GitHub_1.png"
+    },
+    {
       "name": "Gmail.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Gmail.png"
+    },
+    {
+      "name": "Google_Cloud_Platform.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Google_Cloud_Platform.png"
     },
     {
       "name": "Google_Drive.png",
@@ -199,16 +183,12 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Instagram.png"
     },
     {
-      "name": "Kakao.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Kakao.png"
-    },
-    {
       "name": "Line.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Line.png"
     },
     {
-      "name": "Loon_02.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Loon_02.png"
+      "name": "Loon.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Loon.png"
     },
     {
       "name": "Microsoft.png",
@@ -223,8 +203,8 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Netflix.png"
     },
     {
-      "name": "Netflix_2.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Netflix_2.png"
+      "name": "Netflix_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Netflix_1.png"
     },
     {
       "name": "Netflix_Letter.png",
@@ -243,8 +223,12 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/OpenAI.png"
     },
     {
-      "name": "OpenAI_01.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/OpenAI_01.png"
+      "name": "OpenAI_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/OpenAI_1.png"
+    },
+    {
+      "name": "OpenAI_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/OpenAI_2.png"
     },
     {
       "name": "PayPal.png",
@@ -367,6 +351,10 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/YouTube_Music.png"
     },
     {
+      "name": "Youtube_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/Youtube_1.png"
+    },
+    {
       "name": "bilibili.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/bilibili.png"
     },
@@ -387,10 +375,6 @@
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/bilibili_4.png"
     },
     {
-      "name": "emby2.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/emby2.png"
-    },
-    {
       "name": "iCloud.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/iCloud.png"
     },
@@ -409,6 +393,14 @@
     {
       "name": "paypal_1.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/paypal_1.png"
+    },
+    {
+      "name": "paypal_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/paypal_2.png"
+    },
+    {
+      "name": "ql_logo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/ql_logo.png"
     },
     {
       "name": "spotify(green).png",
@@ -437,10 +429,6 @@
     {
       "name": "youtube_2.png",
       "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/youtube_2.png"
-    },
-    {
-      "name": "youtube_3.png",
-      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/SoftWare/youtube_3.png"
     },
     {
       "name": "zhihu.png",
