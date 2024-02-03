@@ -1,0 +1,322 @@
+{
+  "name": "BlankSpace策略(组)图标订阅",
+  "description": "收集一些常用的图标仅自用",
+  "icons": [
+    {
+      "name": "00000.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/00000.png"
+    },
+    {
+      "name": "AD.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/AD.png"
+    },
+    {
+      "name": "AU.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/AU.png"
+    },
+    {
+      "name": "AdBlock_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/AdBlock_1.png"
+    },
+    {
+      "name": "AdBlock_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/AdBlock_2.png"
+    },
+    {
+      "name": "AdWhite.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/AdWhite.png"
+    },
+    {
+      "name": "Adblock.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Adblock.png"
+    },
+    {
+      "name": "Advertising.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Advertising.png"
+    },
+    {
+      "name": "Area.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Area.png"
+    },
+    {
+      "name": "Auto.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Auto.png"
+    },
+    {
+      "name": "Auto_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Auto_1.png"
+    },
+    {
+      "name": "Available.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Available.png"
+    },
+    {
+      "name": "Available_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Available_1.png"
+    },
+    {
+      "name": "Available_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Available_2.png"
+    },
+    {
+      "name": "Bili.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Bili.png"
+    },
+    {
+      "name": "Bypass.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Bypass.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/CN.png"
+    },
+    {
+      "name": "CN_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/CN_1.png"
+    },
+    {
+      "name": "CN_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/CN_2.png"
+    },
+    {
+      "name": "Cellular.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Cellular.png"
+    },
+    {
+      "name": "China.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/China.png"
+    },
+    {
+      "name": "Daily.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Daily.png"
+    },
+    {
+      "name": "Direct.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Direct.png"
+    },
+    {
+      "name": "DomesticMedia.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/DomesticMedia.png"
+    },
+    {
+      "name": "Filter.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Filter.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Final.png"
+    },
+    {
+      "name": "Final_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Final_2.png"
+    },
+    {
+      "name": "ForeignMedia.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/ForeignMedia.png"
+    },
+    {
+      "name": "GAME.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/GAME.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Global.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/HK.png"
+    },
+    {
+      "name": "HK_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/HK_1.png"
+    },
+    {
+      "name": "HK_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/HK_2.png"
+    },
+    {
+      "name": "Hijacking.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Hijacking.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/JP.png"
+    },
+    {
+      "name": "JP_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/JP_1.png"
+    },
+    {
+      "name": "JP_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/JP_2.png"
+    },
+    {
+      "name": "MO.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/MO.png"
+    },
+    {
+      "name": "MY.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/MY.png"
+    },
+    {
+      "name": "Malaysia.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Malaysia.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Microsoft.png"
+    },
+    {
+      "name": "Netease.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Netease.png"
+    },
+    {
+      "name": "Netease_Music.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Netease_Music.png"
+    },
+    {
+      "name": "Netease_Music_Unlock.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Netease_Music_Unlock.png"
+    },
+    {
+      "name": "Netflix_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Netflix_2.png"
+    },
+    {
+      "name": "Proxy.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Proxy.png"
+    },
+    {
+      "name": "RU.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/RU.png"
+    },
+    {
+      "name": "Reject.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Reject.png"
+    },
+    {
+      "name": "Rocket.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Rocket.png"
+    },
+    {
+      "name": "Roundrobin.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Roundrobin.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/SG.png"
+    },
+    {
+      "name": "SG_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/SG_1.png"
+    },
+    {
+      "name": "SG_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/SG_2.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/SSID.png"
+    },
+    {
+      "name": "SSID_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/SSID_2.png"
+    },
+    {
+      "name": "SSL.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/SSL.png"
+    },
+    {
+      "name": "Server.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Server.png"
+    },
+    {
+      "name": "Speedtest.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Speedtest.png"
+    },
+    {
+      "name": "Stack.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Stack.png"
+    },
+    {
+      "name": "Static.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Static.png"
+    },
+    {
+      "name": "Streaming.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Streaming.png"
+    },
+    {
+      "name": "StreamingCN.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/StreamingCN.png"
+    },
+    {
+      "name": "StreamingSE.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/StreamingSE.png"
+    },
+    {
+      "name": "TR.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/TR.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/TW.png"
+    },
+    {
+      "name": "TW_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/TW_1.png"
+    },
+    {
+      "name": "TW_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/TW_2.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/UK.png"
+    },
+    {
+      "name": "ULB.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/ULB.png"
+    },
+    {
+      "name": "ULB_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/ULB_1.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/US.png"
+    },
+    {
+      "name": "US_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/US_1.png"
+    },
+    {
+      "name": "US_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/US_2.png"
+    },
+    {
+      "name": "Unlock.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Unlock.png"
+    },
+    {
+      "name": "Urltest.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/Urltest.png"
+    },
+    {
+      "name": "VN.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/VN.png"
+    },
+    {
+      "name": "WIFI.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/WIFI.png"
+    },
+    {
+      "name": "WiFi_2.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/WiFi_2.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Policy/YouTube.png"
+    }
+  ]
+}

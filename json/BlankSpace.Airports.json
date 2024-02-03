@@ -1,0 +1,434 @@
+{
+  "name": "BlankSpace机场图标订阅",
+  "description": "收集一些常用的图标仅自用",
+  "icons": [
+    {
+      "name": "00000.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/00000.png"
+    },
+    {
+      "name": "AAEX.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/AAEX.png"
+    },
+    {
+      "name": "AEX.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/AEX.png"
+    },
+    {
+      "name": "ASN.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/ASN.png"
+    },
+    {
+      "name": "Amy.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Amy.png"
+    },
+    {
+      "name": "AmyTelecom.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/AmyTelecom.png"
+    },
+    {
+      "name": "AmyTelecom_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/AmyTelecom_1.png"
+    },
+    {
+      "name": "Ark.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Ark.png"
+    },
+    {
+      "name": "Bitcloud.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Bitcloud.png"
+    },
+    {
+      "name": "Blink.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Blink.png"
+    },
+    {
+      "name": "Blinkload.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Blinkload.png"
+    },
+    {
+      "name": "Blinkload_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Blinkload_1.png"
+    },
+    {
+      "name": "Bookpedia.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Bookpedia.png"
+    },
+    {
+      "name": "Boom.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Boom.png"
+    },
+    {
+      "name": "BosLife.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/BosLife.png"
+    },
+    {
+      "name": "BosLife_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/BosLife_1.png"
+    },
+    {
+      "name": "Bywave.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Bywave.png"
+    },
+    {
+      "name": "CCCat.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/CCCat.png"
+    },
+    {
+      "name": "CNIX.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/CNIX.png"
+    },
+    {
+      "name": "Catnet.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Catnet.png"
+    },
+    {
+      "name": "Cm.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Cm.png"
+    },
+    {
+      "name": "Coco.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Coco.png"
+    },
+    {
+      "name": "Cord.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Cord.png"
+    },
+    {
+      "name": "Cylink.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Cylink.png"
+    },
+    {
+      "name": "DLK.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/DLK.png"
+    },
+    {
+      "name": "Dianliang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Dianliang.png"
+    },
+    {
+      "name": "Dler.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Dler.png"
+    },
+    {
+      "name": "Duang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Duang.png"
+    },
+    {
+      "name": "Dukou.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Dukou.png"
+    },
+    {
+      "name": "Element.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Element.png"
+    },
+    {
+      "name": "Enet.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Enet.png"
+    },
+    {
+      "name": "FNF.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/FNF.png"
+    },
+    {
+      "name": "FRANXX.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/FRANXX.png"
+    },
+    {
+      "name": "Fastfish.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Fastfish.png"
+    },
+    {
+      "name": "Fastlink.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Fastlink.png"
+    },
+    {
+      "name": "Fastnode.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Fastnode.png"
+    },
+    {
+      "name": "Flower.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Flower.png"
+    },
+    {
+      "name": "Flyint.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Flyint.png"
+    },
+    {
+      "name": "GLaDOS.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/GLaDOS.png"
+    },
+    {
+      "name": "GaCloud.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/GaCloud.png"
+    },
+    {
+      "name": "Godetia.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Godetia.png"
+    },
+    {
+      "name": "Guguex.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Guguex.png"
+    },
+    {
+      "name": "Hitun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Hitun.png"
+    },
+    {
+      "name": "Hxlm.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Hxlm.png"
+    },
+    {
+      "name": "Imm.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Imm.png"
+    },
+    {
+      "name": "Kache.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Kache.png"
+    },
+    {
+      "name": "Kafka.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Kafka.png"
+    },
+    {
+      "name": "Kedou.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Kedou.png"
+    },
+    {
+      "name": "Kuai.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Kuai.png"
+    },
+    {
+      "name": "LiYing.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/LiYing.png"
+    },
+    {
+      "name": "MDSS.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/MDSS.png"
+    },
+    {
+      "name": "MGNB.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/MGNB.png"
+    },
+    {
+      "name": "Maying.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Maying.png"
+    },
+    {
+      "name": "Miao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Miao.png"
+    },
+    {
+      "name": "Mickey.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Mickey.png"
+    },
+    {
+      "name": "Mimemi.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Mimemi.png"
+    },
+    {
+      "name": "Muchang.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Muchang.png"
+    },
+    {
+      "name": "NSFW.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/NSFW.png"
+    },
+    {
+      "name": "Naiyou.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Naiyou.png"
+    },
+    {
+      "name": "Nex.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Nex.png"
+    },
+    {
+      "name": "Np.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Np.png"
+    },
+    {
+      "name": "Nucleus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Nucleus.png"
+    },
+    {
+      "name": "OvO.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/OvO.png"
+    },
+    {
+      "name": "Pacifique.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Pacifique.png"
+    },
+    {
+      "name": "Paoluz.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Paoluz.png"
+    },
+    {
+      "name": "Personal.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Personal.png"
+    },
+    {
+      "name": "Piao.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Piao.png"
+    },
+    {
+      "name": "Prpr.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Prpr.png"
+    },
+    {
+      "name": "RIP.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/RIP.png"
+    },
+    {
+      "name": "Renzhe.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Renzhe.png"
+    },
+    {
+      "name": "Rookie.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Rookie.png"
+    },
+    {
+      "name": "SCTC.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/SCTC.png"
+    },
+    {
+      "name": "SS.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/SS.png"
+    },
+    {
+      "name": "SSR.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/SSR.png"
+    },
+    {
+      "name": "SSlinks.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/SSlinks.png"
+    },
+    {
+      "name": "STC.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/STC.png"
+    },
+    {
+      "name": "SWCloud.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/SWCloud.png"
+    },
+    {
+      "name": "SaySS.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/SaySS.png"
+    },
+    {
+      "name": "Shandian.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Shandian.png"
+    },
+    {
+      "name": "Situ.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Situ.png"
+    },
+    {
+      "name": "Skicat.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Skicat.png"
+    },
+    {
+      "name": "Socloud.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Socloud.png"
+    },
+    {
+      "name": "Ssp.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Ssp.png"
+    },
+    {
+      "name": "Suda.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Suda.png"
+    },
+    {
+      "name": "Sun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Sun.png"
+    },
+    {
+      "name": "TAG.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/TAG.png"
+    },
+    {
+      "name": "TAG_1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/TAG_1.png"
+    },
+    {
+      "name": "Team.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Team.png"
+    },
+    {
+      "name": "Thunder.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Thunder.png"
+    },
+    {
+      "name": "Touhou.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Touhou.png"
+    },
+    {
+      "name": "Trojan.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Trojan.png"
+    },
+    {
+      "name": "Unicorn.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Unicorn.png"
+    },
+    {
+      "name": "V2ray.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/V2ray.png"
+    },
+    {
+      "name": "V2tun.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/V2tun.png"
+    },
+    {
+      "name": "Vpn.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Vpn.png"
+    },
+    {
+      "name": "Wallless.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Wallless.png"
+    },
+    {
+      "name": "WestData.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/WestData.png"
+    },
+    {
+      "name": "XTunnel.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/XTunnel.png"
+    },
+    {
+      "name": "Xair.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Xair.png"
+    },
+    {
+      "name": "Xingmeng.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Xingmeng.png"
+    },
+    {
+      "name": "Ytoo.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Ytoo.png"
+    },
+    {
+      "name": "Yunyi.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Yunyi.png"
+    },
+    {
+      "name": "Ywhl.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Ywhl.png"
+    },
+    {
+      "name": "Zhs.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/Zhs.png"
+    },
+    {
+      "name": "bigbus.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/bigbus.png"
+    },
+    {
+      "name": "nanoPort.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/nanoPort.png"
+    },
+    {
+      "name": "yiyuan1.png",
+      "url": "https://raw.githubusercontent.com/BlackSpacee/icon/main/Airports/yiyuan1.png"
+    }
+  ]
+}
